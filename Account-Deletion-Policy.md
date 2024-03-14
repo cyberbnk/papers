@@ -1,5 +1,7 @@
 # **CYBERBNK Account Deletion Policy**
 
+# Last Updated: March 13, 2024
+
 ## **Introduction**
 
 At CYBERBNK, we are committed to maintaining the privacy and security of our users' personal information and data. This Account Deletion Policy outlines the procedures and conditions under which users may delete their accounts and the extent to which user information and data can be removed from CYBERBNK's servers and associated services.

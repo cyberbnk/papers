@@ -1,6 +1,6 @@
 # **CYBERBNK Terms and Conditions**
 
-# Last Updated: March 31, 2024
+# Last Updated: March 13, 2024
 
 Chain Ventures FZCO, and/or its affiliates (“we,” “our,” or “us”) provides its software services through its website located at cyberbnk.com and related mobile applications and products (collectively the “Services” or “CYBERBNK”). Before using our Services, please read the Terms of Service (the “Terms”) carefully, along with any other policies or notices on our website or mobile applications.
 

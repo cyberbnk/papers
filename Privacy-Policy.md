@@ -1,5 +1,7 @@
 # **CYBERBNK Privacy Policy**
 
+# Last Updated: March 13, 2024
+
 # This Privacy Notice describes the policies and procedures of Chain Ventures FZCO, (“we,” “our,” or “us”) pertaining to the collection, use, and disclosure of your information on www.cyberbnk.com and related mobile applications and products we offer (the “Services” or “CYBERBNK”).
 
 ### **Overview**
